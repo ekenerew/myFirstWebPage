@@ -1,0 +1,29 @@
+<!DOCTYPE Html>
+<html lang="en-US"><meta Charset="UTC-8">
+<head>
+<title> This is My Page </title> 
+</head>
+
+<img src="C:\Users\Acer\Desktop\IMG_20160307_103354.jpg" height=200 width=300px >
+<body style="Background-color:powderblue;", padding="30">
+
+<h1 style="color:red;", style="text-align:center", style="font-family:verdana",style="font-size:200%"> 
+My Very First Blog </h1>
+<h2 style="font-size:150%>The BIO of  Akpapunam Ekenedilichukwu Joshua</h2>
+<hr><br> 
+<p style="font-size:100%",style="color:powdergreen"> I hold a bachelor degree in chemical engineering and 
+I was exposed to procurement queuing and inventory.
+ During my Industrial Training, I worked in an organization where I was largely involved in store keeping. 
+Working as a supervisor with a leading firm involved in providing cleaning and laundry services for a number
+of years coupled with my educational background and my penchant for work and innovation.
+I always give my best in all I do and always think of innovative ideas to succeed. 
+My personal maxim is that <b>"The Harder I Work the luckier I become.</b> </p>
+<br> <p style="font-size:100%",style="color:powdergreen"> My training as a chemical engineering and my current pursuit in 
+financial engineering has also equipped
+ me with analytical, computational and conceptual skills which are invaluable to carrying out the Job functions.
+I am auspicious and hopeful that i will be considered for this opportunity to serve.
+I look forward to telling about my personality in an interview. Thanks for your consideration.
+</p>
+</body> 
+
+</html>
